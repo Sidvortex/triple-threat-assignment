@@ -15,3 +15,9 @@ This project was created to achieve the objectives set forth by the assignment w
 
 Explore the project and see the power of three minds working together: Triple Threat Assignment.
 
+Contact
+For questions or collaboration, reach out to:
+
+Vinayak Kapoor - ssss
+Ayush Mishra - GitHub Profile
+Ravada Siddharth - GitHub Profile
