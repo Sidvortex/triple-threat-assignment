@@ -18,6 +18,6 @@ Explore the project and see the power of three minds working together: Triple Th
 Contact
 For questions or collaboration, reach out to:
 
-Vinayak Kapoor - ssss
-Ayush Mishra - GitHub Profile
-Ravada Siddharth - GitHub Profile
+Vinayak Kapoor - https://github.com/vinayak605
+Ayush Mishra - https://github.com/ayush77-pro
+Ravada Siddharth - https://github.com/Sidvortex
